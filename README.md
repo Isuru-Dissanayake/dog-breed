@@ -20,3 +20,5 @@ There are exactly 120 dog breeds to classify. So, all these dog breeds are given
 - create_train_data.py
 
 There are separate train and test images in the dataset. Labels for all the train images are also given. Before going into the neural network, it’s better to convert those images in to numpy arrays. Also, it’s better to convert the image labels in to another numpy array, so that we have all the required data as two numpy arrays. To do both these tasks there is a python script included in this repo (create_train_data.py). 
+
+---
