@@ -9,3 +9,6 @@ This is an attempt to create a dog breed identification mobile application using
 The main focus here is to create a neural network to classify the dog in to there breeds. The mobile app development is just for experimenting. 
 
 ---
+
+### Description
+
